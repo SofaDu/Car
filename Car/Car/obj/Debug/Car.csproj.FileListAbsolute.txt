@@ -5,3 +5,11 @@ C:\Users\user\source\repos\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\Car\Car\obj\Debug\Car.exe
 C:\Users\user\source\repos\Car\Car\obj\Debug\Car.pdb
+C:\Users\sergm\Desktop\Car\Car\bin\Debug\Car.exe.config
+C:\Users\sergm\Desktop\Car\Car\bin\Debug\Car.exe
+C:\Users\sergm\Desktop\Car\Car\bin\Debug\Car.pdb
+C:\Users\sergm\Desktop\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+C:\Users\sergm\Desktop\Car\Car\obj\Debug\Car.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergm\Desktop\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\sergm\Desktop\Car\Car\obj\Debug\Car.exe
+C:\Users\sergm\Desktop\Car\Car\obj\Debug\Car.pdb
